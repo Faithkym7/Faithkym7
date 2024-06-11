@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Faith Mumbi Kimani @Faithkym7
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 You can reach me via email faithkym7@gmail.com
 
 <!---
