@@ -47,11 +47,15 @@ Welcome to my GitHub profile!
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
 
 ---
+### 🌟 Recent Projects
+ 🖥️ **[Personal Portfolio](https://faith-kimani-portfolio.netlify.app/)**: Showcasing my skills and experiences. 
 
-### 🌟 Recent Projects  
+ ---
+
+### 🌟 Recent Contributions 
 - 🏥 **M-Treat**: A medical retail app using React and Flask.  
 - 📚 **Entrepreneurial Legal Partner (ELP)**: A legal services website with Framer Motion animations and MERN stack.  
-- 🖥️ **[Personal Portfolio](https://faith-kimani-portfolio.netlify.app/)**: Showcasing my skills and experiences.  
+- 
 
 ---
 
