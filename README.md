@@ -55,6 +55,17 @@ Welcome to my GitHub profile!
 
 ---
 
+### 📊 GitHub Stats  
+![Faith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faithkym7&show_icons=true&theme=radical)  
+
+### 💻 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faithkym7&layout=compact&theme=radical)  
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=Faithkym7&theme=radical&date_format=j%20M%5B%20Y%5D)  
+
+---
+
 ### 🌱 Let's Connect!  
 Feel free to check out my repositories, collaborate on projects, or just say hi. I’m always open to exciting opportunities!  
 
