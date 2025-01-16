@@ -15,7 +15,8 @@ Welcome to my GitHub profile!
 
 📫 **Reach me:**  
 [![Email](https://img.shields.io/badge/Email-faithkym7%40gmail.com-red?style=flat-square&logo=gmail)](mailto:faithkym7@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faithkym7-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/faithkym7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faithkym7-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/faithkym7)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-faith--kimani--portfolio.netlify.app-orange?style=flat-square&logo=netlify)](https://faith-kimani-portfolio.netlify.app/)  
 
 ---
 
@@ -27,12 +28,12 @@ Welcome to my GitHub profile!
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
-
 #### **Frameworks and Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white)  
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
 
 #### **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
@@ -50,7 +51,7 @@ Welcome to my GitHub profile!
 ### 🌟 Recent Projects  
 - 🏥 **M-Treat**: A medical retail app using React and Flask.  
 - 📚 **Entrepreneurial Legal Partner (ELP)**: A legal services website with Framer Motion animations and MERN stack.  
-- 🖥️ **Personal Portfolio**: Showcasing my skills and experiences (coming soon!).  
+- 🖥️ **[Personal Portfolio](https://faith-kimani-portfolio.netlify.app/)**: Showcasing my skills and experiences.  
 
 ---
 
